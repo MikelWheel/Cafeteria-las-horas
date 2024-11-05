@@ -1,0 +1,77 @@
+body{
+    background-color:#d77171;
+}
+id{
+
+    color: brown;
+    position: relative;
+    background-color: pink;
+}
+div.carta{
+
+    position: relative;
+    top: 150px;
+}
+div.cartai{
+
+    position: relative;
+    right: -100px;
+}
+div.títuloc{
+
+    color: brown;
+}
+div.bloquec{
+
+    color: burlywood;
+}
+div.cafei{
+
+    position: relative;
+    right: -800px;
+}
+div.cafe{
+
+    position: absolute;
+    right: 50%;
+    bottom: 50%;
+}
+div.bloque4{
+
+    color: burlywood;
+}
+div.Tc{
+    color: brown;
+}
+div.contacto{
+
+    position: relative;
+    right: -1280px;
+    bottom: -200px;
+}
+div.contactoi{
+
+    
+    position: relative;
+    float: right;
+    
+}
+div.ic{
+    
+    color: brown;
+
+}
+div.icc{
+    
+    color: burlywood;
+
+
+}
+div.color{
+
+    background-color: lightcoral;
+}
+
+header{
+    text-align: center;
+}
